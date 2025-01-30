@@ -1,0 +1,17 @@
+README
+
+Lien Demo et code:
+https://drive.google.com/drive/folders/1GlYBu3XCdvAVT15xA6Wnd_hFE6dtlbcj?usp=sharing
+
+To launch:
+- Please make sure you have the proper database configuration in application.properties in both server projects
+- Make sure the ports are configured correctly as well
+- For the frontend make sure to install all dependencies npm install
+- Make sure the database is created and populated
+
+then: 
+- Run HotelServiceApplication in hotel_service project 
+- Run AgencyServiceApplication in agency_service project
+- npm start in the React app booking_app
+
+
